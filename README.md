@@ -1,3 +1,6 @@
+# Important
+Add the System.Web.Mvc reference befor building the solution
+
 # MovieStore-asp.net-app
 a sample of ASP.NET MVC
 
